@@ -1,4 +1,19 @@
-.venv/
-.idea/
+# macOS
+.DS_Store
+
+# Python
 __pycache__/
+*.pyc
+
+# Virtual Environment
+.venv/
+venv/
+
+# Jupyter
 .ipynb_checkpoints/
+
+# PyCharm
+.idea/
+
+# VSCode
+.vscode/
